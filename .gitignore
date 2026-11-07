@@ -8,3 +8,6 @@ outputs/
 mlruns/
 .pytest_cache/
 .ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/
